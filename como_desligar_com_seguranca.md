@@ -5,9 +5,17 @@ O CoreELEC é inteligente: ao receber o comando de desligamento, ele avisa o Doc
 
 Como você já tem o terminal SSH aberto no notebook, os comandos seguros são:
 
-Para Desligar: Digite poweroff e aperte Enter. A TV Box vai desligar completamente.
+Para Desligar: Digite 
+    
+    poweroff 
+    
+e aperte Enter. A TV Box vai desligar completamente.
 
-Para Reiniciar: Digite reboot e aperte Enter.
+Para Reiniciar: Digite 
+
+    reboot 
+
+e aperte Enter.
 
 2. É possível fazer o controle remoto funcionar?
 Sim, totalmente possível!
